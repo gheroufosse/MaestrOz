@@ -607,7 +607,7 @@ in
 
    % Calls your code, prints the result and outputs the result to `out.wav`.
    % You don't need to modify this.
-   {Browse {Project.run Mix PartitionToTimedList Music 'echo.wav'}}
+   {Browse {Project.run Mix PartitionToTimedList Music 'CodeLyokoz.wav'}}
 
    % Shows the total time to run your code.
    {Browse {IntToFloat {Time}-Start} / 1000.0}
